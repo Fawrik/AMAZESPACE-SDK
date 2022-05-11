@@ -152,9 +152,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed83c0029091f614ba83533d5dca8160, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Email: 
-  Password: 
-  HasLoggedIn: 0
+  Email: josema.pardo@oj2media.com
+  Password: Pluto2013
+  HasLoggedIn: 1
   MyExhibits: []
 --- !u!4 &165644701
 Transform:
